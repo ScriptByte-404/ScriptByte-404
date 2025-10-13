@@ -40,7 +40,7 @@
   This <i>README</i> file is generated <b>every week </b>!<br />
   Last refresh: Monday, 13 October <br />
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
-  <span style="float: right; margin-right: 20px;">
+  <span style="float: right; margin-right: 50px;">
 🌦 15°C, Clouds
   </span>
 </p>
