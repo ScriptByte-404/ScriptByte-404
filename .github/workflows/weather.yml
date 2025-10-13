@@ -1,3 +1,6 @@
+      - name: Debug secret
+        run: echo "Secret is set"
+
 name: Update Weather
 
 on:
