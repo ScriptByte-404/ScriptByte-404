@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: Arial, sans-serif; font-size: 50px;">Hi 👋, I'm ScriptByte</h1>
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 25px;">- Turning ideas into code and exploring the world of programming 🌱</h3>
 
-<p align="left" style="font-family: Arial, sans-serif; font-size: 18px;">
+<p align="left" style="font-family: Arial, sans-serif; font-size: 18px;padding-left: 15px;">
    &nbsp;&nbsp;   #   🔭  Building things and leveling up my programming <br>
    &nbsp;&nbsp;   #   🌱  Experimenting with Python, Git, GitHub , linux * (HTML, CSS, JS) 🪄<br>
    &nbsp;&nbsp;   #   🤝  Joining forces with fellow beginners to learn and create 🚀<br>
