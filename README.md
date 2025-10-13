@@ -42,10 +42,11 @@
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
 </p>
 
-<!-- Weather aligned to the right, just above last line -->
-<p align="centre" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
-  🌦 <!-- WEATHER -->
+<!-- Weather at right corner -->
+<p>
+  <span style="float: right; font-size: 18px;">
+    🌦 <!-- WEATHER -->
+  </span>
 </p>
-
 
 
