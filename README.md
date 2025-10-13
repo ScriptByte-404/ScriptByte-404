@@ -7,6 +7,7 @@
    &nbsp;&nbsp;   #   🤝  Joining forces with fellow beginners to learn and create 🚀<br>
    &nbsp;&nbsp;   #   👯  On the lookout for exciting beginner-friendly projects*  🌟
 </p>
+
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 50px; margin-top:20px; margin-bottom: 30px;">Languages and Tools:</h3>
 <p align="left" style="display: flex; justify-content: center; flex-wrap: wrap; ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="50" />
@@ -18,9 +19,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="50" />
 </p>
-### 🌦 Current Weather
-🌦 15°C, Clouds
 
+### 🌦 Current Weather
+🌦 <!-- WEATHER -->
 
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 50px; margin-top:20px; margin-bottom: 30px; ">Where to find me :</h3>
 <p>
@@ -35,15 +36,18 @@
       alt="Discord" 
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       style="height: 30px; width: auto;" 
-/></a></p>
+/></a>
+</p>
 
-------------
-<p align="center"style= font-size: 18px;;>This <i>README</i> file is generated <b>every week </b>!</br>Last refresh: Monday, 13 october <br /><a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a></p>
-
-<!-- Weather floating div -->
-<div style="position: fixed; bottom: 10px; right: 10px; font-size: 18px; background-color: #f0f0f0; padding: 8px 12px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+<!-- Weather aligned to the right, just above last line -->
+<p align="right" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
   🌦 <!-- WEATHER -->
-</div>
+</p>
 
+<p align="center" style="font-size: 18px;">
+  This <i>README</i> file is generated <b>every week </b>!<br />
+  Last refresh: Monday, 13 October <br />
+  <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
+</p>
 
 
