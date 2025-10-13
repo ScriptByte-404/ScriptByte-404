@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: Arial, sans-serif; font-size: 50px;">Hi 👋, I'm ScriptByte</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; font-size: 25px;">"Turning ideas into code and exploring the world of programming 🌱"</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; font-size: 25px;">" Turning ideas into code and exploring the world of programming 🌱 "</h3>
 
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
 - 🔭 I’m currently working on <b>developing my programming skills, learning Git, and exploring web development</b><br>
