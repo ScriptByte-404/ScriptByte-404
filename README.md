@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="left" style="font-family: Arial, sans-serif; font-size: 32px; margin-top:20px;">Languages and Tools:</h3>
+<h3 align="left" style="font-family: Arial, sans-serif; font-size: 32px; margin-top:20px; margin-bottom: 30px;">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80" />
