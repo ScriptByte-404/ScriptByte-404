@@ -1,0 +1,34 @@
+name: Update Weather
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # Runs every 3 hours
+  workflow_dispatch:
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get weather
+        run: |
+          CITY="London"
+          API_KEY="${{ secrets.8993ad202ace517f3a7479c5bbccf87d }}"
+          TEMP=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq ".main.temp" | xargs printf "%.0f")
+          DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
+          echo "🌦 $CITY: ${TEMP}°C, $DESC" > weather.txt
+
+      - name: Update README
+        run: |
+          sed -i "/<!-- WEATHER -->/r weather.txt" README.md
+          sed -i "/<!-- WEATHER -->/d" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated weather"
+          git push
