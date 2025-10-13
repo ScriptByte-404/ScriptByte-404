@@ -14,7 +14,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="80" height="80" />
   </a>
 </p>
-
 <h3 align="center" style="font-family: Arial, sans-serif; font-size: 35px; margin-top:20px;">Languages and Tools:</h3>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />
