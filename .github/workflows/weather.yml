@@ -25,11 +25,10 @@ jobs:
           sed -i "/<!-- WEATHER -->/r weather.txt" README.md
           sed -i "/<!-- WEATHER -->/d" README.md
 
-      - name: Commit changes
+          - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated weather"
+          git commit -m "Updated weather" || echo "No changes to commit"
           git push
-
