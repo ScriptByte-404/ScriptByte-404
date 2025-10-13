@@ -36,6 +36,7 @@
 /></a>
 </p>
 
+------------
 <p align="center" style="font-size: 18px; position: relative;">
   This <i>README</i> file is generated <b>every week </b>!<br />
   Last refresh: Monday, 13 October <br />
