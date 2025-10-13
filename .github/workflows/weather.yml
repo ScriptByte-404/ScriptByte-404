@@ -16,7 +16,6 @@ jobs:
 
       - name: Get weather
         run: |
-          CITY="London"
           API_KEY="${{ secrets.OPENWEATHER_API_KEY }}"
           TEMP=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq ".main.temp" | xargs printf "%.0f")
           DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
