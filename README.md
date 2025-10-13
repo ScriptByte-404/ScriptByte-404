@@ -40,4 +40,10 @@
 ------------
 <p align="center"style= font-size: 18px;;>This <i>README</i> file is generated <b>every week </b>!</br>Last refresh: Monday, 13 october <br /><a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a></p>
 
+<!-- Weather floating div -->
+<div style="position: fixed; bottom: 10px; right: 10px; font-size: 18px; background-color: #f0f0f0; padding: 8px 12px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+  🌦 <!-- WEATHER -->
+</div>
+
+
 
