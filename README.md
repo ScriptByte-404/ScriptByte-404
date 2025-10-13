@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="50" />
 </p>
-<h3>Where to find me</h3>
+<h3 align="left" style="font-family: Arial, sans-serif; font-size: 50px; margin-top:20px; margin-bottom: 30px; ">Where to find me :</h3>
 <p>
   <a href="https://github.com/ScriptByte-404" target="_blank">
     <img 
