@@ -31,7 +31,7 @@
     <img 
       alt="Discord" 
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      style="height: 50px; width: auto;" 
+      style="height: 40px; width: auto;" 
     />
   </a>
 </p>
