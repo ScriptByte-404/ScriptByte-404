@@ -4,8 +4,8 @@
 <p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
 - 🔭 I’m currently working on <b>developing my programming skills, learning Git, and exploring web development</b><br>
 - 🌱 I’m currently learning <b>Python, Git, GitHub, and basic web development (HTML, CSS, JavaScript)</b><br>
-- 🤝 I am open to collaborating <b>to learn and contribute together on beginner-friendly projects.</b>
-- 👯 I’m looking to collaborate on <b>beginner-friendly projects</b><br>
+- 🤝 I am open to collaborating <b>to learn and contribute together on beginner-friendly projects.</b><br>
+- 👯 I’m looking to collaborate on <b>beginner-friendly projects</b>
 </p>
 
 <h3 align="center" style="font-family: Arial, sans-serif; font-size: 28px; margin-top:20px;">Connect with me:</h3>
