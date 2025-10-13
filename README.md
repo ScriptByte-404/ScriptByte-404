@@ -7,16 +7,7 @@
 - 🤝 **Joining forces with fellow beginners** to learn, create, and have fun together 🚀<br>
 - 👯 **On the lookout for exciting beginner-friendly projects** to dive into and make awesome stuff 🌟
 </p>
-
-<h3 align="center" style="font-family: Arial, sans-serif; font-size: 32px; margin-top:20px;">Connect with me:</h3>
-<p align="center">
-  <a href="https://discord.com/users/1209536155700174878" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="70" height="70" />
-  </a>
-</p>
-
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 32px; margin-top:20px; margin-bottom: 30px;">Languages and Tools:</h3>
-
 <p align="left" style="display: flex; justify-content: center; flex-wrap: wrap; ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="50" />
