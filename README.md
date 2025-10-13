@@ -42,7 +42,7 @@
   Last refresh: Monday, 13 October <br />
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
    </p>
-<td align="right">
-🌦 14°C, Clouds
-</td>
+ <td align="right">
+      🌦 <!-- WEATHER -->
+    </td>
 
