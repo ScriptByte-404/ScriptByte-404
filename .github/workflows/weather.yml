@@ -19,6 +19,7 @@ jobs:
           API_KEY="${{ secrets.OPENWEATHER_API_KEY }}"
           TEMP=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=London&appid=$API_KEY&units=metric" | jq ".main.temp" | xargs printf "%.0f")
           DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=London&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
+          TIME=$(date '+%H:%M %p, %d %b %Y')
           echo "🌦 ${TEMP}°C, $DESC" > weather.txt
 
       - name: Update README
