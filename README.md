@@ -20,10 +20,11 @@
 </p>
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/ScriptByte-404" target="_blank" style="transform: scale(1.4); display: inline-block;">
+  <a href="https://github.com/ScriptByte-404" target="_blank">
     <img 
       alt="GitHub" 
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
+      style="height: 40px; width: auto;" 
     />
   </a>
 </p>
