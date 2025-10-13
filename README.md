@@ -2,10 +2,10 @@
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 25px;">- Turning ideas into code and exploring the world of programming 🌱</h3>
 
 <p align="left" style="font-family: Arial, sans-serif; font-size: 18px;">
-   &nbsp;&nbsp; #  🔭  Building things and leveling up my programming <br>
-   &nbsp;&nbsp;#  🌱  Experimenting with Python, Git, GitHub , linux * (HTML, CSS, JS) 🪄<br>
-   &nbsp;&nbsp;#  🤝  Joining forces with fellow beginners to learn and create 🚀<br>
-   &nbsp;&nbsp; #  👯  On the lookout for exciting beginner-friendly projects*  🌟
+   &nbsp;&nbsp;  #  🔭  Building things and leveling up my programming <br>
+   &nbsp;&nbsp;  #  🌱  Experimenting with Python, Git, GitHub , linux * (HTML, CSS, JS) 🪄<br>
+   &nbsp;&nbsp;  #  🤝  Joining forces with fellow beginners to learn and create 🚀<br>
+   &nbsp;&nbsp;  #  👯  On the lookout for exciting beginner-friendly projects*  🌟
 </p>
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 32px; margin-top:20px; margin-bottom: 30px;">Languages and Tools:</h3>
 <p align="left" style="display: flex; justify-content: center; flex-wrap: wrap; ">
