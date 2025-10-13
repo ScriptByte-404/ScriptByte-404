@@ -43,6 +43,6 @@
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
    </p>
 <td align="right">
-  🌦 <!-- WEATHER -->
+🌦 14°C, Clouds
 </td>
 
