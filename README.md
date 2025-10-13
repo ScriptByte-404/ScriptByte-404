@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ScriptByte</h1>
-<h3 align="center">A passionate programmer from Nepal.</h3>
+<h3 align="center">Turning ideas into code and exploring the world of programming 🌱</h3>
 
 - 🔭 I’m currently working on **developing my programming skills, learning Git, and exploring web development**  
 
@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<br> <!-- Adds extra space between sections -->
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="margin-top:10px;">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75" style="margin-right:30px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75" style="margin-right:30px;" />
@@ -29,3 +27,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75" style="margin-right:30px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75" style="margin-right:30px;" />
 </p>
+
