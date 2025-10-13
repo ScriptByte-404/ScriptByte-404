@@ -25,16 +25,14 @@
       alt="GitHub" 
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
       style="height: 40px; width: auto;" 
-    />
-  </a>
+/></a>
    <a href="https://discord.com/users/1209536155700174878" target="_blank">
     <img 
       alt="Discord" 
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       style="height: 30px; width: auto;" 
-    />
-  </a>
-</p>
+/></a></p>
+
 ------------
 <p align="center">This <i>README</i> file is generated <b>every week </b>!</br>Last refresh: Monday, 13 october <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
