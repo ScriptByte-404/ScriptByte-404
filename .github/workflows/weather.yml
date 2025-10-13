@@ -2,7 +2,7 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # Every 3 hours
+    - cron: "0 */3 * * *"  # Runs every 3 hours
   workflow_dispatch:
 
 jobs:
@@ -12,20 +12,19 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false   # Important
+          persist-credentials: false  # Important for PAT method
 
       - name: Get weather
         run: |
           API_KEY="${{ secrets.OPENWEATHER_API_KEY }}"
-          TEMP=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq ".main.temp" | xargs printf "%.0f")
-          DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
-          echo "🌦 $CITY: ${TEMP}°C, $DESC" > weather.txt
+          TEMP=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=London&appid=$API_KEY&units=metric" | jq ".main.temp" | xargs printf "%.0f")
+          DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=London&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
+          echo "🌦 ${TEMP}°C, $DESC" > weather.txt
 
-     - name: Update README
-  run: |
-    awk '/<!-- WEATHER -->/ { system("cat weather.txt"); next }1' README.md > README_new.md
-    mv README_new.md README.md
-
+      - name: Update README
+        run: |
+          awk '/<!-- WEATHER -->/ { system("cat weather.txt"); next }1' README.md > README_new.md
+          mv README_new.md README.md
 
       - name: Commit and Push
         run: |
