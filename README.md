@@ -1,4 +1,4 @@
-&nbsp;&nbsp;<h1 align="left" style="font-family: Arial, sans-serif; font-size: 50px;">Hi 👋, I'm ScriptByte</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 25px;">- Turning ideas into code and exploring the world of programming 🌱</h3>
 
 <p align="left" style="font-family: Arial, sans-serif; font-size: 18px;padding-left: 25px;">
