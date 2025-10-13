@@ -11,7 +11,7 @@
 <h3 align="center" font-family: Copperplate, Papyrus, fantasy; font-size: 32px; margin-top:20px;">Connect with me:</h3>
 <p align="center">
   <a href="https://discord.com/users/1209536155700174878" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="80" height="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="80" height="80" />
   </a>
 </p>
 <h3 align="center" style="font-family: Arial, sans-serif; font-size: 35px; margin-top:15px;">Languages and Tools:</h3>
