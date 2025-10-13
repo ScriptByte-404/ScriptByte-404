@@ -36,15 +36,16 @@
 /></a>
 </p>
 
-<!-- Weather aligned to the right, just above last line -->
-<p align="right" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
-  🌦 <!-- WEATHER -->
-</p>
-
 <p align="center" style="font-size: 18px;">
   This <i>README</i> file is generated <b>every week </b>!<br />
   Last refresh: Monday, 13 October <br />
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
 </p>
+
+<!-- Weather aligned to the right, just above last line -->
+<p align="right" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
+  🌦 <!-- WEATHER -->
+</p>
+
 
 
