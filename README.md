@@ -27,12 +27,11 @@
       style="height: 40px; width: auto;" 
     />
   </a>
-   <a href="https://discord.com/users/1209536155700174878" target="_blank">
+    <a href="https://discordapp.com/users/1209536155700174878" target="_blank" style="display:inline-block; transform: scale(1.4); margin: 10px;">
     <img 
       alt="Discord" 
-      src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" 
-       style="height: 40px; width: auto;
-       />
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+    />
   </a>
 </p>
 
