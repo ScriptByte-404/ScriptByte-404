@@ -45,7 +45,7 @@
       <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
     </td>
     <td align="right">
-      🌦 <!-- WEATHER -->
+🌦 14°C, Clouds
     </td>
   </tr>
 </table>
