@@ -27,11 +27,11 @@
       style="height: 40px; width: auto;" 
     />
   </a>
-   <a href="https://discord.com/users/1209536155700174878" target="_blank" style="margin: 10px;">
+   <a href="https://discord.com/users/1209536155700174878" target="_blank">
     <img 
       alt="Discord" 
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      style="height: 35px; width: auto;" 
+      style="height: 30px; width: auto;" 
     />
   </a>
 </p>
