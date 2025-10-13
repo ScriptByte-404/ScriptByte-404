@@ -21,10 +21,11 @@ jobs:
           DESC=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY&appid=$API_KEY&units=metric" | jq -r ".weather[0].main")
           echo "🌦 $CITY: ${TEMP}°C, $DESC" > weather.txt
 
-      - name: Update README
-        run: |
-          awk '/<!-- WEATHER -->/ { system("cat weather.txt"); next }1' README.md > README_new.md
-          mv README_new.md README.md
+     - name: Update README
+  run: |
+    awk '/<!-- WEATHER -->/ { system("cat weather.txt"); next }1' README.md > README_new.md
+    mv README_new.md README.md
+
 
       - name: Commit and Push
         run: |
