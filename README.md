@@ -43,7 +43,7 @@
 </p>
 
 <!-- Weather aligned to the right, just above last line -->
-<p align="right" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
+<p align="centre" style="font-size: 18px; margin-top: 0; margin-bottom: 5px;">
   🌦 <!-- WEATHER -->
 </p>
 
