@@ -34,6 +34,6 @@
 /></a></p>
 
 ------------
-<p align="center"style="font-family: Arial, sans-serif; font-size: 18px;padding-left: 25px;>This <i>README</i> file is generated <b>every week </b>!</br>Last refresh: Monday, 13 october <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"style= font-size: 18px;;>This <i>README</i> file is generated <b>every week </b>!</br>Last refresh: Monday, 13 october <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 
