@@ -42,7 +42,7 @@
   Last refresh: Monday, 13 October <br />
   <a href="https://github.com/ScriptByte-404/ScriptByte-404/edit/main/README.md">Create your own here!</a>
    </p>
-<p align="center" style="font-size: 14px; margin-top: 40px; color: #555;">
+<p align="center" style="font-size: 12px; margin-top: 80px; color: #555;">
 🌦 14°C, Clouds | ⏰ 11:02 AM, 13 Oct 2025
    </p>
 
