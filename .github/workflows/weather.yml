@@ -2,7 +2,7 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"  # Every 3 hours
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: false   # Important
 
       - name: Get weather
         run: |
