@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="50" />
 </p>
 ### 🌦 Current Weather in London, UK
-<!-- WEATHER -->
+🌦 London: 14°C, Clouds
 
 <h3 align="left" style="font-family: Arial, sans-serif; font-size: 50px; margin-top:20px; margin-bottom: 30px; ">Where to find me :</h3>
 <p>
